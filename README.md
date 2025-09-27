@@ -34,9 +34,7 @@
 
 <h1 align="center"><b>‼️注意‼️</b></h1>
 
-> <h2 align="center"></br>禁止進行任何的侵權動作!</br>嚴禁盜用本儲存庫代碼另行架設機器人或使用本儲存庫代碼進行二創!<h2>
-
-> <h2 align="center"></br>想為吐司機器人貢獻？請查看<a href="https://github.com/Ryan11035/TSBOT/blob/main/CONTRIBUTING.md" alt="🔗為吐司機器人-TSBOT 貢獻">>[此處]<<h2> 
+> <h2 align="center"></br>想為吐司機器人貢獻？請查看<a href="https://github.com/Ryan110781/TSBOT/issues/new/choose" alt="🔗為吐司機器人-TSBOT 貢獻">>[此處]<<h2> 
 
 ---
 
