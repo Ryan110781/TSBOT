@@ -1,5 +1,5 @@
 <p align="center">
-    <image src="https://github.com/ryan11035/TSBOT/assets/icon.png" width="250px" ></image>
+    <image src="https://tsbot.ddns.net/assets/icon.png" width="250px" ></image>
     <h1 align="center">
         <b>🍞吐司機器人[TSBOT]🍞</b>
     </h1>
